@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+all-error-logs.log
+all-logs.log
+tsconfig.tsbuildinfo
+dist
